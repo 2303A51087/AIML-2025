@@ -1,14 +1,26 @@
-# AIML-2025-2303A51087
+# AIML-2025-2303A51085
 # G.Abhiram
-#Artificial Intelligence and Machine Learning Lab Instructions
-1.[LAB-01]_(https://github.com/2303A51087/AIML-2025/blob/main/AIML_A1.pdf):Introduction to Python Libraries-Numpy
-1.[LAB-02]_(https://github.com/2303A51087/AIML-2025/blob/main/AIML_A2.pdf):Introduction to Python Libraries-Numpy
-1.[LAB-03]_():Introduction to Python Libraries-Numpy
-1.[LAB-04]_():Introduction to Python Libraries-Numpy
+# AIML-2024-25
+# Artificial Intelligence and Machine Learning Lab Instruction Sheets
+1. [Lab 03](): Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
+1. [Lab 04](): Implement Linear Regression using Boston Housing Data
+1. [Lab 05](): Implement Logistic Regression using Titanic Ship Data
+1. [Lab 06](): Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
+1. [Lab 07](): Implement Support Vector Machine using Breast Cancer Data
+1. [Lab 08](): Implement Decision Tree Classifier using Lending Club Data
+1. [Lab 09](): Implement Random Forest Ensemble Classifier using Lending Club Data
+1. [Lab 10](): Implement K-Means Clustering using Iris Data
 
 
-#Artificial Intelligence and Machine Learning Lab Jupyter Notebooks
-1.[LAB-01]_():Introduction to Python Libraries-Numpy
-1.[LAB-02]_():Introduction to Python Libraries-Numpy
-1.[LAB-03]_():Introduction to Python Libraries-Numpy
-1.[LAB-04]_():Introduction to Python Libraries-Numpy
+# Lab Code Notebooks
+1. [Lab 01]()
+2. [Lab 02]()
+3. [Lab 03]()
+4. [Lab 04]()
+5. [Lab 05]()
+6. [Lab 06]()
+7. [Lab 07]()
+8. [Lab 08]()
+9. [Lab 09]()
+10. [Lab 10]()
+    
