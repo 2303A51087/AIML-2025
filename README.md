@@ -4,7 +4,7 @@
 # Artificial Intelligence and Machine Learning Lab Instruction Sheets
 1.[Lab 01](https://github.com/2303A51087/AIML-2025/blob/main/Lab_1_AIML.ipynb): Implement basic data structures of Numpy, Pandas, Matplotlib and Access Data from sources
 2.[Lab 02](https://github.com/2303A51087/AIML-2025/blob/main/Lab02_AIML.ipynb): Implement Ai searh
-3. [Lab 03](): Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
+3. [Lab 03](https://github.com/2303A51087/AIML-2025/blob/main/lab3_AIML.ipynb): Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
 4. [Lab 04](): Implement Linear Regression using Boston Housing Data
 5. [Lab 05](): Implement Logistic Regression using Titanic Ship Data
 6. [Lab 06](): Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
