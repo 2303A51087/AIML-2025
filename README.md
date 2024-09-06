@@ -1,6 +1,5 @@
-# AIML-2025-2303A51085
+# AIML-2025-2303A51087
 # G.Abhiram
-# AIML-2024-25
 # Artificial Intelligence and Machine Learning Lab Instruction Sheets
 1. [Lab 01](https://github.com/2303A51087/AIML-2025/blob/main/Lab_1_AIML.ipynb): Implement basic data structures of Numpy, Pandas, Matplotlib and Access Data from sources.
 2. [Lab 02](https://github.com/2303A51087/AIML-2025/blob/main/Lab02_AIML.ipynb): Implement AI Searh.
